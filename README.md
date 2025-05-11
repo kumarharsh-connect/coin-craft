@@ -43,7 +43,7 @@
 
 ## **Live Demo**
 
-![Coin Craft Screenshot](https://kumarharsh-connect.github.io/coin-craft/)
+![Coin Craft](https://kumarharsh-connect.github.io/coin-craft/)
 
 ## **API Integration**
 
